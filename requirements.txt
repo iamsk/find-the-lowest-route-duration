@@ -1,1 +1,2 @@
 peewee==2.10.1
+https://github.com/elisong/baidu-maps-services-python/archive/master.zip
