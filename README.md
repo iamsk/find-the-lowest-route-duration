@@ -1,5 +1,9 @@
 # find-the-lowest-route-duration
 
-## crontab
+## init db
 
-`*/5 * * * * cd /home/devops && python duration.py`
+`cd /home/devops/find-the-lowest-route-duration && python models.py`
+
+## add cron
+
+`*/5 * * * * cd /home/devops/find-the-lowest-route-duration && python duration.py`
