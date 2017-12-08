@@ -37,5 +37,5 @@ def store_routes_duration(locations):
 
 
 if __name__ == '__main__':
-    _locations = ['龙域西二路二号院', '融科融智蜂巢工场', '华控大厦-北门']
+    _locations = ['清秀阁', '华控大厦-北门']
     store_routes_duration(_locations)
